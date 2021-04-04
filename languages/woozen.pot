@@ -1,0 +1,76 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooZen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-04 17:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: woozen"
+
+#: settings/section_small_things.php:21
+msgid "Add custom text for the Cart button."
+msgstr ""
+
+#. Description of the plugin
+msgid "Add extra capabilities to WooCommerce with the power of Zen."
+msgstr ""
+
+#: settings/section_small_things.php:15
+msgid ""
+"Add quantity field before Cart button in products listing (not for Gutenberg "
+"Blocks)"
+msgstr ""
+
+#: settings/section_small_things.php:13
+msgid "Add quantity in lists"
+msgstr ""
+
+#: settings/section_stock_status.php:13
+msgid "Add status"
+msgstr ""
+
+#: settings/section_small_things.php:19
+msgid "Cart button text"
+msgstr ""
+
+#: settings/section_stock_status.php:9
+msgid "Create Custom Stock Statuses for Inventory"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://weart.hu"
+msgstr ""
+
+#: settings/section_stock_status.php:15
+msgid "Only one custom status per line."
+msgstr ""
+
+#: settings/section_small_things.php:7
+msgid "Other tweaks"
+msgstr ""
+
+#: settings/section_small_things.php:9
+msgid "Small thing for better WooCommerce"
+msgstr ""
+
+#: settings/section_stock_status.php:7 settings/tab.php:23
+msgid "Stock Status"
+msgstr ""
+
+#. Author of the plugin
+msgid "weartstudio"
+msgstr ""
+
+#. Name of the plugin
+#: settings/tab.php:17
+msgid "WooZen"
+msgstr ""

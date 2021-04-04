@@ -1,8 +1,8 @@
-=== Custom Stock Status for WooCommerce ===
+=== WooZen ===
 Contributors: weartstudio
 Tags: woocommerce,stock,inventory
 Donate link: http://weart.hu
-Text Domain: custom-stock-status-for-woocommerce
+Text Domain: woozen
 Domain Path: /languages/
 Requires at least: 5.0
 Tested up to: 5.7
@@ -12,15 +12,19 @@ Version: 1.0
 License: GPL version 2 or later
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-Add Custom Stock Statuses for WooCommerce's Inventory Manager.
+WooZen
 
 == Description ==
 
-Custom Stock Status for WooCommerce is asmall, rock solid, simple and **free solution** for a specific task only:
-Create as many **Custom Stock Statuses** for ** WooCommerce** Inventory Manager.
+Add extra capabilities to WooCommerce with the power of Zen. This plugin extend the wonderful WooCommerce system with small tweaks.
+WooZen is a small, rock solid, simple and **free extension** for a WooCommerce. 
 
 = Features =
-* Create unlimited number of stock statuses.
+* Add unlimited Custom Stock Statuses for WooCommerce's Inventory Manager.
+* Add Custom Cart button Text
+* Add quantity input field before Cart button in product list.
+
+=This is not all=
 * Free plugin without any kind of limitation.
 * Work with variable products too.
 * Fully **Translateable**
