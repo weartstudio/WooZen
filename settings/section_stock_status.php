@@ -4,19 +4,19 @@
 
 $settings += array(
     'ss_title' => array(
-        'name'     => __( 'Stock Status', 'woozen' ),
+        'name'     => __( 'Stock Status', 'storechip' ),
         'type'     => 'title',
-        'desc'     => __('Create Custom Stock Statuses for Inventory', 'woozen'),
-        'id'       => 'wc_settings_woozen_ss_title'
+        'desc'     => __('Create Custom Stock Statuses for Inventory', 'storechip'),
+        'id'       => 'wc_settings_storechip_ss_title'
     ),
     'ss_desc' => array(
-        'name' => __( 'Add status', 'woozen' ),
+        'name' => __( 'Add status', 'storechip' ),
         'type' => 'textarea',
-        'desc' => __( 'Only one custom status per line.', 'woozen'),
-        'id'   => 'wc_settings_woozen_ss_statuses'
+        'desc' => __( 'Only one custom status per line.', 'storechip'),
+        'id'   => 'wc_settings_storechip_ss_statuses'
     ),
     'ss_end' => array(
          'type' => 'sectionend',
-         'id'   => 'wc_settings_woozen_section_ss_end'
+         'id'   => 'wc_settings_storechip_section_ss_end'
     )
 );

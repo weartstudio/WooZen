@@ -1,7 +1,7 @@
 <?php 
 /**
- * Plugin Name:         WooZen
- * Description:         Add extra capabilities to WooCommerce with the power of Zen.
+ * Plugin Name:         Storechip
+ * Description:         Add smart capabilities to WooCommerce with the power of code.
  * Version:             1.0
  * Requires at least:   5.2
  * Requires PHP:        7.2
@@ -9,7 +9,7 @@
  * Author URI:          https://weart.hu
  * License:             GPLv2
  * License URI:         https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:         woozen
+ * Text Domain:         storechip
  * Domain Path:       /languages
  */
 

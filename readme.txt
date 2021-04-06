@@ -1,8 +1,8 @@
-=== WooZen ===
+=== Storechip ===
 Contributors: weartstudio
 Tags: woocommerce,stock,inventory
 Donate link: http://weart.hu
-Text Domain: woozen
+Text Domain: storechip
 Domain Path: /languages/
 Requires at least: 5.0
 Tested up to: 5.7
@@ -12,19 +12,19 @@ Version: 1.0
 License: GPL version 2 or later
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-WooZen
+Storechip
 
 == Description ==
 
-Add extra capabilities to WooCommerce with the power of Zen. This plugin extend the wonderful WooCommerce system with small tweaks.
-WooZen is a small, rock solid, simple and **free extension** for a WooCommerce. 
+Add extra capabilities to WooCommerce with the power of Chips and Code. This plugin extend the wonderful WooCommerce system with extra tweaks take your system to the next level.
+Storechip is a small, rock solid, simple and **free extension** for a WooCommerce. 
 
-= Features =
+= Features is developing continously =
 * Add unlimited Custom Stock Statuses for WooCommerce's Inventory Manager.
 * Add Custom Cart button Text
 * Add quantity input field before Cart button in product list.
 
-=This is not all=
+= This is not all =
 * Free plugin without any kind of limitation.
 * Work with variable products too.
 * Fully **Translateable**

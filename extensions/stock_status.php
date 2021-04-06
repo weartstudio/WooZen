@@ -1,7 +1,7 @@
 <?php 
 
 // get datas from settings
-$get_css_val = get_option( 'wc_settings_woozen_ss_statuses' );
+$get_css_val = get_option( 'wc_settings_storechip_ss_statuses' );
 
 if($get_css_val){
 

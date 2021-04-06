@@ -1,9 +1,9 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: WooZen\n"
+"Project-Id-Version: Storechip\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-04 17:27+0000\n"
+"POT-Creation-Date: 2021-04-06 08:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -14,14 +14,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
 "X-Loco-Version: 2.5.2; wp-5.7\n"
-"X-Domain: woozen"
+"X-Domain: storechip"
 
 #: settings/section_small_things.php:21
 msgid "Add custom text for the Cart button."
-msgstr ""
-
-#. Description of the plugin
-msgid "Add extra capabilities to WooCommerce with the power of Zen."
 msgstr ""
 
 #: settings/section_small_things.php:15
@@ -32,6 +28,10 @@ msgstr ""
 
 #: settings/section_small_things.php:13
 msgid "Add quantity in lists"
+msgstr ""
+
+#. Description of the plugin
+msgid "Add smart capabilities to WooCommerce with the power of code."
 msgstr ""
 
 #: settings/section_stock_status.php:13
@@ -66,11 +66,14 @@ msgstr ""
 msgid "Stock Status"
 msgstr ""
 
-#. Author of the plugin
-msgid "weartstudio"
+#. Name of the plugin
+msgid "Storechip"
 msgstr ""
 
-#. Name of the plugin
 #: settings/tab.php:17
-msgid "WooZen"
+msgid "storechip"
+msgstr ""
+
+#. Author of the plugin
+msgid "weartstudio"
 msgstr ""
